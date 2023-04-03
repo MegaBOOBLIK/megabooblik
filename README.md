@@ -1,5 +1,5 @@
 # Hello, this is Dmitry!<BR>
-and that's what I want to tell you about myself!
+and that's what I want to tell you about myself.
 
 ## My profile:
 Versatile knowledge and experience in the IT field, building and optimizing inefficient solutions both in IT and in everyday life, the ability to do a lot of craft with your own hands, constant self-study, attention to detail.
