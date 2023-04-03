@@ -51,4 +51,4 @@ Operational repair and maintenance of power supply systems; installation (recons
 - 2 years worked as a Regional Head of IT in a large call center.
 - 2 years of experience in the customer support team of a large corporation. Users support along with user training.
 - 7 years leading position as chief engineer of a large regional trading company.
----
+
