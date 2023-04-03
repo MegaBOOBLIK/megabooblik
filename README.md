@@ -2,10 +2,10 @@
 and that's what I want to tell you about myself.
 
 ## My profile:
-Versatile knowledge and experience in the IT field, building and optimizing inefficient solutions both in IT and in everyday life, the ability to do a lot of craft with your own hands, constant self-study, attention to detail.
+#### Versatile knowledge and experience in the IT field, building and optimizing inefficient solutions both in IT and in everyday life, the ability to do a lot of craft with your own hands, constant self-study, attention to detail.
 
+---
 ## General Skills:
-
 Maintenance of the information structure of the enterprise.<br>
 Linux and Windows servers, LAN, video surveillance, commercial equipment.<br>
 Design, installation, commissioning, and maintenance of Information Processing Centers: corporate server rooms, call centers, access control systems, security and fire alarm systems and low-voltage systems.<br>
