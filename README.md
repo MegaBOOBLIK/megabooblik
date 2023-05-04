@@ -1,4 +1,4 @@
-# Hello, this is Dmitry!<BR>
+# Hello, I'm Dmitry!<BR>
 and that's what I want to tell you about myself!
 
 ## My profile:
