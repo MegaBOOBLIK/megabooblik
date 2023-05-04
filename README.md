@@ -10,7 +10,7 @@ and that's what I want to tell you about myself!
 ### General Skills:
 
 Maintenance of the information structure of the enterprise.<br>
-Linux and Windows servers, LAN, video surveillance, commercial equipment.<br>
+Linux and Windows servers, networks, video surveillance, commercial equipment.<br>
 Design, installation, commissioning, and maintenance of Information Processing Centers: corporate server rooms, call centers, access control systems, security and fire alarm systems and low-voltage systems.<br>
 Maintenance, repair, installation of cash register equipment and self-service devices.<br>
 Ready-made POS systems Wincor Nixdorf, or based on a personal computer.
