@@ -1,11 +1,10 @@
-# Hello, I'm Dmitry!<BR>
+# Hello, I'm Dmitry!
 and that's what I want to tell you about myself!
-
-#### My profile:
-### I have a wide range of knowledge and experience in the IT field. Creation of new and optimization of used solutions, in large and small enterprises, as well as in everyday life. I can do a lot of crafts with my own hands. I constantly improve my skills, self-training, attention to detail.
-
 ---
-## General Skills:
+### My profile:
+## I have a wide range of knowledge and experience in the IT field. Creation of new and optimization of used solutions, in large and small enterprises, as well as in everyday life. I can do a lot of crafts with my own hands. I constantly improve my skills, self-training, attention to detail.
+---
+### General Skills:
 
 Maintenance of the information structure of the enterprise.<br>
 Linux and Windows servers, LAN, video surveillance, commercial equipment.<br>
