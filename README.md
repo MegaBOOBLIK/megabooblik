@@ -2,7 +2,10 @@
 and that's what I want to tell you about myself!
 
 ## My profile:
-#### Versatile knowledge and experience in the IT field, building and optimizing inefficient solutions both in IT and in everyday life, the ability to do a lot of craft with your own hands, constant self-study, attention to detail.
+### I have a wide range of knowledge and experience in the IT field.
+Creation of new and optimization of used solutions, in large and small enterprises, as well as in everyday life.
+I can do a lot of crafts with my own hands.
+I constantly improve my skills, self-training, attention to detail.
 
 ---
 ## General Skills:
